@@ -1,0 +1,45 @@
+\input texinfo
+
+@settitle 3DViewer Manual
+
+@copying
+This is a manual for 3DViewer
+
+Copyright @copyright{} 2023 genesis
+@end copying
+
+@ifnottex
+@node Top
+@top Description of the work of the 3DViewer program
+
+Здесь вы найдёте краткое описание работы программы 3DViewer и её функционала.
+
+@end ifnottex
+
+В этом описании можно найти следующие разделы:
+@menu
+* Functions:: функции
+@end menu
+
+@node Functions
+
+@chapter Функции
+
+Доступные функции:
+@enumerate
+@item Загрузка модели
+@item Поворот модели
+@item Перемещение модели
+@item Изменение цвета фона, вершин и ребер
+@end enumerate
+
+
+@titlepage
+@title 3DViewer
+
+@page
+@vskip 0pt plus 1fill
+@insertcopying
+@end titlepage
+
+@bye
