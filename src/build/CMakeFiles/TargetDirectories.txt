@@ -1,0 +1,8 @@
+/home/aslan/Desktop/rew/3DViewer/src/build/CMakeFiles/3dViewer.dir
+/home/aslan/Desktop/rew/3DViewer/src/build/CMakeFiles/edit_cache.dir
+/home/aslan/Desktop/rew/3DViewer/src/build/CMakeFiles/rebuild_cache.dir
+/home/aslan/Desktop/rew/3DViewer/src/build/CMakeFiles/list_install_components.dir
+/home/aslan/Desktop/rew/3DViewer/src/build/CMakeFiles/install.dir
+/home/aslan/Desktop/rew/3DViewer/src/build/CMakeFiles/install/local.dir
+/home/aslan/Desktop/rew/3DViewer/src/build/CMakeFiles/install/strip.dir
+/home/aslan/Desktop/rew/3DViewer/src/build/CMakeFiles/3dViewer_autogen.dir
